@@ -1,0 +1,5 @@
+  ---
+  :consumer_secret: Consumer Secret (API Secret) GOES HERE
+  :consumer_key: Consumer Key (API Key) GOES HERE
+  :token: Access Token GOES HERE
+  :secret: Access Token Secret GOES HERE

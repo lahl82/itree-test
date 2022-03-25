@@ -1,0 +1,13 @@
+current directory: /home/hera/workspace/itree-test/prueba2/TweetSecBot/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+/home/hera/.rbenv/versions/3.0.2/bin/ruby -I /home/hera/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20220325-49071-wxi4vj.rb extconf.rb
+creating Makefile
+
+current directory: /home/hera/workspace/itree-test/prueba2/TweetSecBot/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\= clean
+
+current directory: /home/hera/workspace/itree-test/prueba2/TweetSecBot/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\=
+make: No se hace nada para 'all'.
+
+current directory: /home/hera/workspace/itree-test/prueba2/TweetSecBot/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\= install
